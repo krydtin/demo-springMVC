@@ -1,5 +1,12 @@
 *.class
+/target
+/.settings
+.classpath
+.project
 
+#add STS ignore
+.springBeans
+/workspace_springtoolsuite
 # Package Files #
 *.jar
 *.war
